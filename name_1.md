@@ -2,9 +2,9 @@
 
 Link to WCA
 
-##Personal records
+## Personal records
 
-##Results by Week
+## Results by Week
 
 
 askdakldnmaksda
