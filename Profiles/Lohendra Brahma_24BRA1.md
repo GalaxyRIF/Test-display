@@ -3,6 +3,7 @@
 ## PB
 |Single|Event|Average|
 |----|----|----|
+|50.31|3x3|57.76|
 ### Week 24.03
 |Event|Single|Average|S1|S2|S3|S4|S5|
 |-----|-------|------|--|--|--|--|--|
